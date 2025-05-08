@@ -22,7 +22,7 @@
 3. Adjust the width parameter (see below) to fit the full width of your text.
 
 ```md
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)](https://readme-typing-svg.herokuapp.com/demo/?font=Exo2&color=F70700&center=true&vCenter=true&lines=Nguy%E1%BB%85n+Ng%E1%BB%8Dc+H%C3%A0+Nguy%C3%AAn;from+Vi%E1%BB%87t+Nam+%E2%9D%A4;Photographer%2CIT;Telecommunications+Engineer)
 ```
 
 4. Star the repo 😄
